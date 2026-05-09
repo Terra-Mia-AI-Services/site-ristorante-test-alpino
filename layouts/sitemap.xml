@@ -1,1 +1,13 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHVybHNldCB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSIKICAgICAgICB4bWxuczp4aHRtbD0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94aHRtbCI+Cnt7IHJhbmdlIC5TaXRlLkFsbFBhZ2VzIH19CiAgPHVybD4KICAgIDxsb2M+e3sgLlBlcm1hbGluayB9fTwvbG9jPnt7IGlmIG5vdCAuTGFzdG1vZC5Jc1plcm8gfX0KICAgIDxsYXN0bW9kPnt7IHNhZmVIVE1MICguTGFzdG1vZC5Gb3JtYXQgIjIwMDYtMDEtMDJUMTU6MDQ6MDUtMDc6MDAiKSB9fTwvbGFzdG1vZD57eyBlbmQgfX0Ke3sgaWYgLklzVHJhbnNsYXRlZCB9fXt7IHJhbmdlIC5UcmFuc2xhdGlvbnMgfX0KICAgIDx4aHRtbDpsaW5rIHJlbD0iYWx0ZXJuYXRlIiBocmVmbGFuZz0ie3sgLkxhbmcgfX0iIGhyZWY9Int7IC5QZXJtYWxpbmsgfX0iIC8+e3sgZW5kIH19CiAgICA8eGh0bWw6bGluayByZWw9ImFsdGVybmF0ZSIgaHJlZmxhbmc9Int7IC5MYW5nIH19IiBocmVmPSJ7eyAuUGVybWFsaW5rIH19IiAvPnt7IGVuZCB9fQogIDwvdXJsPgp7eyBlbmQgfX0KPC91cmxzZXQ+
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{{ range .Site.AllPages }}
+  <url>
+    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML (.Lastmod.Format "2006-01-02T15:04:05-07:00") }}</lastmod>{{ end }}
+{{ if .IsTranslated }}{{ range .Translations }}
+    <xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />{{ end }}
+    <xhtml:link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />{{ end }}
+  </url>
+{{ end }}
+</urlset>

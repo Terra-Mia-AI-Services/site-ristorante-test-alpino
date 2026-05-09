@@ -1,1 +1,123 @@
-YmFzZVVSTCA9ICJodHRwczovL3NpdGUtcmlzdG9yYW50ZS10ZXN0LWFscGluby5wYWdlcy5kZXYiCmxhbmd1YWdlQ29kZSA9ICJpdCIKZGVmYXVsdENvbnRlbnRMYW5ndWFnZSA9ICJpdCIKdGl0bGUgPSAiUmlzdG9yYW50ZSBUZXN0IEFscGlubyIKCltwYXJhbXNdCiAgc2l0ZV9uYW1lID0gIlJpc3RvcmFudGUgVGVzdCBBbHBpbm8iCiAgZGVzY3JpcHRpb24gPSAiUmlzdG9yYW50ZSB0aXBpY28gZGkgbW9udGFnbmEgY29uIGN1Y2luYSB0cmFkaXppb25hbGUgdGlyb2xlc2UiCiAgc2xvZ2FuID0gIklsIGd1c3RvIGRlbGxhIG1vbnRhZ25hIgogIGJ1c2luZXNzX3R5cGUgPSAicmlzdG9yYW50ZSIKICBjb250YWN0X2VtYWlsID0gImluZm9AdGVzdGFscGluby5pdCIKICBjb250YWN0X3Bob25lID0gIiszOSAwNDcxIDEyMzQ1NiIKICB3aGF0c2FwcCA9ICIrMzkgMDQ3MSAxMjM0NTYiCiAgYWRkcmVzcyA9ICJWaWEgUm9tYSAxIgogIGNpdHkgPSAiQm9semFubyIKICBwcm92aW5jZSA9ICJCWiIKICBjYXAgPSAiMzkxMDAiCiAgaW5zdGFncmFtID0gIiIKICBmYWNlYm9vayA9ICIiCiAgdHJpcGFkdmlzb3IgPSAiIgogIGdvb2dsZV9idXNpbmVzcyA9ICIiCiAgdGlrdG9rID0gIiIKICB5b3V0dWJlID0gIiIKICBsaW5rZWRpbiA9ICIiCiAgb3BlbmluZ19ob3VycyA9ICIiCiAgc3R5bGUgPSAicnVzdGljbyIKICBsYXlvdXQgPSAiaGVyb19ncmFuZGUiCiAgZm9udCA9ICJjbGFzc2ljbyIKICBwcmltYXJ5X2NvbG9yID0gIiM4QjQ1MTMiCiAgYWNjZW50X2NvbG9yID0gIiNEMjY5MUUiCiAgcGFja2FnZSA9ICJzdGFydGVyIgogIHNpdGVfZmVhdHVyZXMgPSBbImZvcm1fY29udGF0dGkiLCAid2hhdHNhcHAiLCAibWFwc19lbWJlZCIsICJzZW8iXQoKICBbcGFyYW1zLnBhZ2Vfc2x1Z3NfYnlfbGFuZy5zZXJ2aXppXQogICAgZW4gPSAic2VydmljZXMiCiAgICBpdCA9ICJzZXJ2aXppIgogIFtwYXJhbXMucGFnZV9zbHVnc19ieV9sYW5nLmNvbnRhdHRpXQogICAgZW4gPSAiY29udGFjdCIKICAgIGl0ID0gImNvbnRhdHRpIgogIFtwYXJhbXMucGFnZV9zbHVnc19ieV9sYW5nLmhvbWVwYWdlXQogICAgZW4gPSAiIgogICAgaXQgPSAiIgogIFtwYXJhbXMucGFnZV9zbHVnc19ieV9sYW5nLmNoaV9zaWFtb10KICAgIGVuID0gImFib3V0IgogICAgaXQgPSAiY2hpLXNpYW1vIgogIFtwYXJhbXMucGFnZV9zbHVnc19ieV9sYW5nLmNvb2tpZV9wcml2YWN5XQogICAgZW4gPSAicHJpdmFjeSIKICAgIGl0ID0gInByaXZhY3kiCgpbbGFuZ3VhZ2VzXQogIFtsYW5ndWFnZXMuaXRdCiAgICBjb250ZW50RGlyID0gImNvbnRlbnQvaXQiCiAgICBsYW5ndWFnZU5hbWUgPSAiSXRhbGlhbm8iCiAgICBsYW5ndWFnZUNvZGUgPSAiaXQiCiAgICB3ZWlnaHQgPSAxCiAgICB0aXRsZSA9ICJSaXN0b3JhbnRlIFRlc3QgQWxwaW5vIgogIFtsYW5ndWFnZXMuaXQubWVudV0KICAgIFtbbGFuZ3VhZ2VzLml0Lm1lbnUubWFpbl1dCiAgICAgIGlkZW50aWZpZXIgPSAiaG9tZSIKICAgICAgbmFtZSA9ICJIb21lIgogICAgICB1cmwgPSAiLyIKICAgICAgd2VpZ2h0ID0gMQogICAgW1tsYW5ndWFnZXMuaXQubWVudS5tYWluXV0KICAgICAgaWRlbnRpZmllciA9ICJjaGlfc2lhbW8iCiAgICAgIG5hbWUgPSAiQ2hpIHNpYW1vIgogICAgICB1cmwgPSAiL2NoaS1zaWFtby8iCiAgICAgIHdlaWdodCA9IDIKICAgIFtbbGFuZ3VhZ2VzLml0Lm1lbnUubWFpbl1dCiAgICAgIGlkZW50aWZpZXIgPSAic2Vydml6aSIKICAgICAgbmFtZSA9ICJTZXJ2aXppIgogICAgICB1cmwgPSAiL3NlcnZpemkvIgogICAgICB3ZWlnaHQgPSAzCiAgICBbW2xhbmd1YWdlcy5pdC5tZW51Lm1haW5dXQogICAgICBpZGVudGlmaWVyID0gImNvbnRhdHRpIgogICAgICBuYW1lID0gIkNvbnRhdHRpIgogICAgICB1cmwgPSAiL2NvbnRhdHRpLyIKICAgICAgd2VpZ2h0ID0gNAogICAgW1tsYW5ndWFnZXMuaXQubWVudS5tYWluXV0KICAgICAgaWRlbnRpZmllciA9ICJjb29raWVfcHJpdmFjeSIKICAgICAgbmFtZSA9ICJQcml2YWN5IgogICAgICB1cmwgPSAiL3ByaXZhY3kvIgogICAgICB3ZWlnaHQgPSA1CiAgW2xhbmd1YWdlcy5lbl0KICAgIGNvbnRlbnREaXIgPSAiY29udGVudC9lbiIKICAgIGxhbmd1YWdlTmFtZSA9ICJFbmdsaXNoIgogICAgbGFuZ3VhZ2VDb2RlID0gImVuIgogICAgd2VpZ2h0ID0gMgogICAgdGl0bGUgPSAiUmlzdG9yYW50ZSBUZXN0IEFscGlubyIKICBbbGFuZ3VhZ2VzLmVuLm1lbnVdCiAgICBbW2xhbmd1YWdlcy5lbi5tZW51Lm1haW5dXQogICAgICBpZGVudGlmaWVyID0gImhvbWUiCiAgICAgIG5hbWUgPSAiSG9tZSIKICAgICAgdXJsID0gIi8iCiAgICAgIHdlaWdodCA9IDEKICAgIFtbbGFuZ3VhZ2VzLmVuLm1lbnUubWFpbl1dCiAgICAgIGlkZW50aWZpZXIgPSAiY2hpX3NpYW1vIgogICAgICBuYW1lID0gIkFib3V0IgogICAgICB1cmwgPSAiL2Fib3V0LyIKICAgICAgd2VpZ2h0ID0gMgogICAgW1tsYW5ndWFnZXMuZW4ubWVudS5tYWluXV0KICAgICAgaWRlbnRpZmllciA9ICJzZXJ2aXppIgogICAgICBuYW1lID0gIlNlcnZpY2VzIgogICAgICB1cmwgPSAiL3NlcnZpY2VzLyIKICAgICAgd2VpZ2h0ID0gMwogICAgW1tsYW5ndWFnZXMuZW4ubWVudS5tYWluXV0KICAgICAgaWRlbnRpZmllciA9ICJjb250YXR0aSIKICAgICAgbmFtZSA9ICJDb250YWN0IgogICAgICB1cmwgPSAiL2NvbnRhY3QvIgogICAgICB3ZWlnaHQgPSA0CiAgICBbW2xhbmd1YWdlcy5lbi5tZW51Lm1haW5dXQogICAgICBpZGVudGlmaWVyID0gImNvb2tpZV9wcml2YWN5IgogICAgICBuYW1lID0gIlByaXZhY3kiCiAgICAgIHVybCA9ICIvcHJpdmFjeS8iCiAgICAgIHdlaWdodCA9IDUKClttYXJrdXBdCiAgW21hcmt1cC5nb2xkbWFya10KICAgIFttYXJrdXAuZ29sZG1hcmsucmVuZGVyZXJdCiAgICAgIHVuc2FmZSA9IHRydWUKCltidWlsZF0KICBbYnVpbGQuYnVpbGRTdGF0c10KICAgIGVuYWJsZSA9IHRydWUK
+baseURL = "https://site-ristorante-test-alpino.pages.dev"
+languageCode = "it"
+defaultContentLanguage = "it"
+title = "Ristorante Test Alpino"
+
+[params]
+  site_name = "Ristorante Test Alpino"
+  description = "Ristorante tipico di montagna con cucina tradizionale tirolese"
+  slogan = "Il gusto della montagna"
+  business_type = "ristorante"
+  contact_email = "info@testalpino.it"
+  contact_phone = "+39 0471 123456"
+  whatsapp = "+39 0471 123456"
+  address = "Via Roma 1"
+  city = "Bolzano"
+  province = "BZ"
+  cap = "39100"
+  instagram = ""
+  facebook = ""
+  tripadvisor = ""
+  google_business = ""
+  tiktok = ""
+  youtube = ""
+  linkedin = ""
+  opening_hours = ""
+  style = "rustico"
+  layout = "hero_grande"
+  font = "classico"
+  primary_color = "#8B4513"
+  accent_color = "#D2691E"
+  package = "starter"
+  site_features = ["form_contatti", "whatsapp", "maps_embed", "seo"]
+
+  [params.page_slugs_by_lang.servizi]
+    en = "services"
+    it = "servizi"
+  [params.page_slugs_by_lang.contatti]
+    en = "contact"
+    it = "contatti"
+  [params.page_slugs_by_lang.homepage]
+    en = ""
+    it = ""
+  [params.page_slugs_by_lang.chi_siamo]
+    en = "about"
+    it = "chi-siamo"
+  [params.page_slugs_by_lang.cookie_privacy]
+    en = "privacy"
+    it = "privacy"
+
+[languages]
+  [languages.it]
+    contentDir = "content/it"
+    languageName = "Italiano"
+    languageCode = "it"
+    weight = 1
+    title = "Ristorante Test Alpino"
+  [languages.it.menu]
+    [[languages.it.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.it.menu.main]]
+      identifier = "chi_siamo"
+      name = "Chi siamo"
+      url = "/chi-siamo/"
+      weight = 2
+    [[languages.it.menu.main]]
+      identifier = "servizi"
+      name = "Servizi"
+      url = "/servizi/"
+      weight = 3
+    [[languages.it.menu.main]]
+      identifier = "contatti"
+      name = "Contatti"
+      url = "/contatti/"
+      weight = 4
+    [[languages.it.menu.main]]
+      identifier = "cookie_privacy"
+      name = "Privacy"
+      url = "/privacy/"
+      weight = 5
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+    title = "Ristorante Test Alpino"
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "chi_siamo"
+      name = "About"
+      url = "/about/"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "servizi"
+      name = "Services"
+      url = "/services/"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "contatti"
+      name = "Contact"
+      url = "/contact/"
+      weight = 4
+    [[languages.en.menu.main]]
+      identifier = "cookie_privacy"
+      name = "Privacy"
+      url = "/privacy/"
+      weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[build]
+  [build.buildStats]
+    enable = true

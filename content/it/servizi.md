@@ -1,1 +1,15 @@
-LS0tCnRpdGxlOiAiU2Vydml6aSBkZWwgUmlzdG9yYW50ZSBUZXN0IEFscGlubyDigJMgQ2VuYSBkaSBncnVwcG8sIEV2ZW50aSBlIFRha2UgQXdheSBhIEJvbHphbm8iCmRlc2NyaXB0aW9uOiAiU2NvcHJpIGkgc2Vydml6aSBkZWwgUmlzdG9yYW50ZSBUZXN0IEFscGlubzogY2VuZSBwcml2YXRlLCBldmVudGkgYXppZW5kYWxpLCBjYXRlcmluZyBwZXIgZmVzdGUgZSB0YWtlIGF3YXkgZGkgc3BlY2lhbGl0w6AgdGlyb2xlc2kgYSBCb2x6YW5vLiIKdHJhbnNsYXRpb25LZXk6ICJzZXJ2aXppIgotLS0KCkFsICoqUmlzdG9yYW50ZSBUZXN0IEFscGlubyoqIG9mZnJpYW1vIG1vbHRvIHBpw7kgZGkgdW5hIHNlbXBsaWNlIGNlbmEuIElsIG5vc3RybyBhbWJpZW50ZSBydXN0aWNvIGUgbGEgY3VjaW5hIHRyYWRpemlvbmFsZSB0aXJvbGVzZSBzb25vIGxhIGNvcm5pY2UgcGVyZmV0dGEgcGVyIG9nbmkgb2NjYXNpb25lLgoKKipDZW5lIGRpIGdydXBwbyBlIHByaXZhdGUqKiDigJMgT3JnYW5penppYW1vIHNlcmF0ZSBzdSBtaXN1cmEgcGVyIGNvbWl0aXZlLCBmYW1pZ2xpZSBvIGNvbGxlZ2hpLiBNZW7DuSBwZXJzb25hbGl6emF0aSBjb24gaSBub3N0cmkgcGlhdHRpIHRpcGljaSwgZGFsIGdvdWxhc2ggYWxsbyBzdHJ1ZGVsLgoKKipFdmVudGkgYXppZW5kYWxpIGUgZmVzdGUqKiDigJMgSWwgbm9zdHJvIHNhbG9uZSBwdcOyIG9zcGl0YXJlIG1lZXRpbmcsIGZlc3RlIGRpIGNvbXBsZWFubm8gbyBjZWxlYnJhemlvbmkuIEF0bW9zZmVyYSBpbmZvcm1hbGUgZSBjaWJvIGdlbnVpbm8gcGVyIHJlbmRlcmUgc3BlY2lhbGUgb2duaSBldmVudG8uCgoqKkNhdGVyaW5nIGUgdGFrZSBhd2F5Kiog4oCTIFBvcnRhdGUgaWwgc2Fwb3JlIGRlbGxhIG1vbnRhZ25hIGEgY2FzYSB2b3N0cmEuIE9mZnJpYW1vIHNlcnZpemlvIGRpIGNhdGVyaW5nIHBlciBmZXN0ZSBwcml2YXRlIGUgdGFrZSBhd2F5IGRlaSBub3N0cmkgcGlhdHRpIGZvcnRpLCBzdSBwcmVub3RhemlvbmUuCgpDb250YXR0YXRlY2kgcGVyIG9yZ2FuaXp6YXJlIGxhIHZvc3RyYSBwcm9zc2ltYSBlc3BlcmllbnphIGN1bGluYXJpYS4gU2lhbW8gaW4gVmlhIFJvbWEgMSwgQm9semFubyAoQlopLg==
+---
+title: "Servizi – Ristorante Test Alpino a Bolzano"
+description: "Offriamo servizi di ristorazione, catering e eventi privati. Prenota una cena intima o una festa nel nostro ambiente rustico."
+translationKey: "servizi"
+---
+
+Al **Ristorante Test Alpino** offriamo una vasta gamma di servizi per rendere la vostra esperienza indimenticabile. Che si tratti di una cena romantica a due, un pranzo di lavoro o una festa con amici, abbiamo tutto ciò che fa per voi.
+
+**Ristorazione** – Il nostro menu à la carte vi permette di scegliere tra una selezione di piatti tradizionali e proposte stagionali. Offriamo anche menu degustazione per farvi assaporare il meglio della nostra cucina.
+
+**Catering** – Portiamo i sapori della montagna direttamente a casa vostra o nei vostri eventi. Personalizziamo i menu in base alle vostre esigenze, con piatti preparati al momento e consegnati con cura.
+
+**Eventi privati** – Il nostro ristorante dispone di sale private per feste di compleanno, anniversari, cene aziendali e altre celebrazioni. L'atmosfera rustica e il servizio attento renderanno il vostro evento speciale.
+
+Prenotate il vostro servizio contattandoci direttamente o tramite il modulo di contatto. Saremo lieti di organizzare tutto nei minimi dettagli.

@@ -1,1 +1,20 @@
-LS0tCnRpdGxlOiAiQ29udGF0dGkg4oCTIFJpc3RvcmFudGUgVGVzdCBBbHBpbm8gfCBCb2x6YW5vLCBWaWEgUm9tYSAxIgpkZXNjcmlwdGlvbjogIkNvbnRhdHRhIGlsIFJpc3RvcmFudGUgVGVzdCBBbHBpbm8gYSBCb2x6YW5vLiBUZWxlZm9ubywgZW1haWwsIG1vZHVsbyBkaSBjb250YXR0byBlIG1hcHBhIGludGVyYXR0aXZhIHBlciBwcmVub3RhcmUgaWwgdHVvIHRhdm9sby4gVGkgYXNwZXR0aWFtbyEiCnRyYW5zbGF0aW9uS2V5OiAiY29udGF0dGkiCmxheW91dDogImNvbnRhdHRpIgotLS0KClNpYW1vIGEgdm9zdHJhIGRpc3Bvc2l6aW9uZSBwZXIgb2duaSBpbmZvcm1hemlvbmUgbyBwcmVub3RhemlvbmUuIEFsICoqUmlzdG9yYW50ZSBUZXN0IEFscGlubyoqIGNyZWRpYW1vIG5lbGwnYWNjb2dsaWVuemEsIGFuY2hlIHByaW1hIGRlbCB2b3N0cm8gYXJyaXZvLgoKKipEb3ZlIHNpYW1vKiog4oCTIFZpYSBSb21hIDEsIDM5MTAwIEJvbHphbm8gKEJaKS4gU2lhbW8gbmVsIGNlbnRybyBzdG9yaWNvLCBmYWNpbG1lbnRlIHJhZ2dpdW5naWJpbGkgYSBwaWVkaSBvIGNvbiBpIG1lenppIHB1YmJsaWNpLgoKKipDb250YXR0aSBkaXJldHRpKiog4oCTIFRlbGVmb25vOiArMzkgMDQ3MSAxMjM0NTYgfCBFbWFpbDogW2luZm9AdGVzdGFscGluby5pdF0obWFpbHRvOmluZm9AdGVzdGFscGluby5pdCkKCioqTW9kdWxvIGRpIGNvbnRhdHRvKiog4oCTIFV0aWxpenphdGUgaWwgZm9ybSBzb3R0b3N0YW50ZSBwZXIgaW52aWFyY2kgdW4gbWVzc2FnZ2lvLiBSaXNwb25kZXJlbW8gbmVsIHBpw7kgYnJldmUgdGVtcG8gcG9zc2liaWxlLgoKKipNYXBwYSBpbnRlcmF0dGl2YSoqIOKAkyBRdWkgc290dG8gdHJvdmF0ZSBsYSBtYXBwYSBwZXIgcmFnZ2l1bmdlcmNpLiBWaSBhc3BldHRpYW1vIHBlciBmYXJ2aSBhc3NhcG9yYXJlIGlsIHZlcm8gZ3VzdG8gZGVsbGEgbW9udGFnbmEu
+---
+title: "Contatti – Ristorante Test Alpino"
+description: "Contatta il Ristorante Test Alpino a Bolzano. Telefono, email, modulo di contatto e mappa. Prenota ora."
+translationKey: "contatti"
+layout: "contatti"
+---
+
+Siamo a vostra disposizione per qualsiasi informazione o prenotazione. Ecco i nostri recapiti:
+
+**Indirizzo:** Via Roma 1, 39100 Bolzano (BZ)
+**Telefono:** +39 0471 123456
+**Email:** info@testalpino.it
+
+**Orari di apertura:** (se non specificati, consultare il sito)
+
+Utilizzate il modulo di contatto qui sotto per inviarci un messaggio diretto. Risponderemo nel più breve tempo possibile.
+
+Potete anche trovarci su Google Maps: [Vedi mappa](https://maps.google.com/?q=Via+Roma+1+Bolzano)
+
+Seguiteci sui social per rimanere aggiornati sulle nostre iniziative e offerte speciali. Vi aspettiamo!

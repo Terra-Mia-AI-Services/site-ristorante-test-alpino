@@ -1,1 +1,15 @@
-LS0tCnRpdGxlOiAiU2VydmljZXMgYXQgUmlzdG9yYW50ZSBUZXN0IEFscGlubyDigJMgR3JvdXAgRGlubmVyLCBFdmVudHMgJiBUYWtlIEF3YXkgaW4gQm9semFubyIKZGVzY3JpcHRpb246ICJEaXNjb3ZlciB0aGUgc2VydmljZXMgb2YgUmlzdG9yYW50ZSBUZXN0IEFscGlubzogcHJpdmF0ZSBkaW5uZXJzLCBjb3Jwb3JhdGUgZXZlbnRzLCBwYXJ0eSBjYXRlcmluZyBhbmQgdGFrZSBhd2F5IG9mIFR5cm9sZWFuIHNwZWNpYWx0aWVzIGluIEJvbHphbm8uIgp0cmFuc2xhdGlvbktleTogInNlcnZpemkiCi0tLQoKQXQgKipSaXN0b3JhbnRlIFRlc3QgQWxwaW5vKiogd2Ugb2ZmZXIgbXVjaCBtb3JlIHRoYW4ganVzdCBkaW5uZXIuIE91ciBydXN0aWMgc2V0dGluZyBhbmQgdHJhZGl0aW9uYWwgVHlyb2xlYW4gY3Vpc2luZSBwcm92aWRlIHRoZSBwZXJmZWN0IGJhY2tkcm9wIGZvciBhbnkgb2NjYXNpb24uCgoqKkdyb3VwIGFuZCBwcml2YXRlIGRpbm5lcnMqKiDigJMgV2Ugb3JnYW5pemUgdGFpbG9yLW1hZGUgZXZlbmluZ3MgZm9yIGdyb3VwcywgZmFtaWxpZXMgb3IgY29sbGVhZ3Vlcy4gQ3VzdG9taXplZCBtZW51cyB3aXRoIG91ciBzaWduYXR1cmUgZGlzaGVzLCBmcm9tIGdvdWxhc2ggdG8gc3RydWRlbC4KCioqQ29ycG9yYXRlIGV2ZW50cyBhbmQgcGFydGllcyoqIOKAkyBPdXIgaGFsbCBjYW4gaG9zdCBtZWV0aW5ncywgYmlydGhkYXkgcGFydGllcyBvciBjZWxlYnJhdGlvbnMuIEluZm9ybWFsIGF0bW9zcGhlcmUgYW5kIGdlbnVpbmUgZm9vZCB0byBtYWtlIGV2ZXJ5IGV2ZW50IHNwZWNpYWwuCgoqKkNhdGVyaW5nIGFuZCB0YWtlIGF3YXkqKiDigJMgQnJpbmcgdGhlIHRhc3RlIG9mIHRoZSBtb3VudGFpbnMgdG8geW91ciBob21lLiBXZSBvZmZlciBjYXRlcmluZyBzZXJ2aWNlcyBmb3IgcHJpdmF0ZSBwYXJ0aWVzIGFuZCB0YWtlIGF3YXkgb2Ygb3VyIGJlc3QgZGlzaGVzLCBieSByZXNlcnZhdGlvbi4KCkNvbnRhY3QgdXMgdG8gb3JnYW5pemUgeW91ciBuZXh0IGN1bGluYXJ5IGV4cGVyaWVuY2UuIFdlIGFyZSBhdCBWaWEgUm9tYSAxLCBCb2x6YW5vIChCWiku
+---
+title: "Services – Ristorante Test Alpino in Bolzano"
+description: "We offer dining, catering, and private events. Book an intimate dinner or a party in our rustic setting."
+translationKey: "servizi"
+---
+
+At **Ristorante Test Alpino** we offer a wide range of services to make your experience unforgettable. Whether it's a romantic dinner for two, a business lunch, or a party with friends, we have everything you need.
+
+**Dining** – Our à la carte menu allows you to choose from a selection of traditional dishes and seasonal proposals. We also offer tasting menus to let you savor the best of our cuisine.
+
+**Catering** – We bring the flavors of the mountains directly to your home or to your events. We customize menus according to your needs, with dishes prepared fresh and delivered with care.
+
+**Private Events** – Our restaurant has private rooms for birthday parties, anniversaries, corporate dinners, and other celebrations. The rustic atmosphere and attentive service will make your event special.
+
+Book your service by contacting us directly or through the contact form. We will be happy to arrange everything down to the smallest detail.

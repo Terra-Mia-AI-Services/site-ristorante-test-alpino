@@ -1,1 +1,13 @@
-LS0tCnRpdGxlOiAiUmlzdG9yYW50ZSBUZXN0IEFscGlubyDigJMgVGhlIFRhc3RlIG9mIHRoZSBNb3VudGFpbnMgaW4gQm9semFubyIKZGVzY3JpcHRpb246ICJXZWxjb21lIHRvIFJpc3RvcmFudGUgVGVzdCBBbHBpbm86IHRyYWRpdGlvbmFsIFR5cm9sZWFuIGN1aXNpbmUsIHJ1c3RpYyBhbmQgYXV0aGVudGljIGF0bW9zcGhlcmUgaW4gdGhlIGhlYXJ0IG9mIEJvbHphbm8uIERpc2NvdmVyIHRoZSB0cnVlIGZsYXZvciBvZiB0aGUgbW91bnRhaW5zLiIKdHJhbnNsYXRpb25LZXk6ICJob21lcGFnZSIKLS0tCgpXZWxjb21lIHRvICoqUmlzdG9yYW50ZSBUZXN0IEFscGlubyoqLCB3aGVyZSB0aGUgdGFzdGUgb2YgdGhlIG1vdW50YWlucyBjb21lcyB0byBsaWZlLiBMb2NhdGVkIGluIHRoZSBoZWFydCBvZiBCb2x6YW5vLCBvdXIgcmVzdGF1cmFudCBjb21iaW5lcyBUeXJvbGVhbiBjdWxpbmFyeSB0cmFkaXRpb24gd2l0aCBhIHJ1c3RpYyBhbmQgd2VsY29taW5nIGF0bW9zcGhlcmUsIHBlcmZlY3QgZm9yIHRob3NlIHNlZWtpbmcgYW4gYXV0aGVudGljIGV4cGVyaWVuY2UuCgpPdXIgY3Vpc2luZSBpcyBhIGpvdXJuZXkgdGhyb3VnaCB0aGUgZmxhdm9ycyBvZiB0aGUgcGFzdDogd2UgdXNlIGxvY2FsIGluZ3JlZGllbnRzIGFuZCByZWNpcGVzIGhhbmRlZCBkb3duIHRocm91Z2ggZ2VuZXJhdGlvbnMuIEVhY2ggZGlzaCB0ZWxscyB0aGUgc3Rvcnkgb2YgdGhlIEFscHMsIGZyb20gY2xhc3NpYyBkdW1wbGluZ3MgdG8gaG9tZW1hZGUgc3RydWRlbC4KCkNvbWUgYW5kIHZpc2l0IHVzIGF0IFZpYSBSb21hIDEsIEJvbHphbm8gKEJaKS4gRW5qb3kgdGhlIHRocmlsbCBvZiBsdW5jaCBvciBkaW5uZXIgaW4gYSB3YXJtIGVudmlyb25tZW50IHdoZXJlIHdvb2QgYW5kIHN0b25lIGNyZWF0ZSB0aGUgaWRlYWwgc2V0dGluZyBmb3IgdW5mb3JnZXR0YWJsZSBtb21lbnRzLgoKKipUaGUgdGFzdGUgb2YgdGhlIG1vdW50YWlucyBhd2FpdHMgeW91Lioq
+---
+title: "Ristorante Test Alpino – Taste of the Mountains in Bolzano"
+description: "Welcome to Ristorante Test Alpino, traditional Tyrolean cuisine in a rustic setting. Discover our dishes and book your table."
+translationKey: "homepage"
+---
+
+Welcome to **Ristorante Test Alpino**, where the authentic taste of the mountains meets Tyrolean tradition. Located in the heart of Bolzano, our restaurant offers a unique culinary experience, immersed in a rustic and welcoming atmosphere.
+
+Our menu celebrates the flavors of the Alps, with dishes prepared using local ingredients and recipes passed down through generations. From speck to dumplings, from strudel to roasted meats, each dish tells the story of our land.
+
+We invite you to explore our wine cellar, rich in South Tyrolean wines, and enjoy the view of the surrounding mountains. Whether you are a couple, family, or with friends, you will always find a corner of peace and good food.
+
+Book your table today and let yourself be conquered by the taste of the mountains. Our staff is ready to welcome you with warmth and professionalism.

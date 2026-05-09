@@ -1,1 +1,20 @@
-LS0tCnRpdGxlOiAiQ29udGFjdCDigJMgUmlzdG9yYW50ZSBUZXN0IEFscGlubyB8IEJvbHphbm8sIFZpYSBSb21hIDEiCmRlc2NyaXB0aW9uOiAiQ29udGFjdCBSaXN0b3JhbnRlIFRlc3QgQWxwaW5vIGluIEJvbHphbm8uIFBob25lLCBlbWFpbCwgY29udGFjdCBmb3JtIGFuZCBpbnRlcmFjdGl2ZSBtYXAgdG8gYm9vayB5b3VyIHRhYmxlLiBXZSBsb29rIGZvcndhcmQgdG8gc2VlaW5nIHlvdSEiCnRyYW5zbGF0aW9uS2V5OiAiY29udGF0dGkiCmxheW91dDogImNvbnRhdHRpIgotLS0KCldlIGFyZSBhdCB5b3VyIGRpc3Bvc2FsIGZvciBhbnkgaW5mb3JtYXRpb24gb3IgcmVzZXJ2YXRpb24uIEF0ICoqUmlzdG9yYW50ZSBUZXN0IEFscGlubyoqIHdlIGJlbGlldmUgaW4gaG9zcGl0YWxpdHksIGV2ZW4gYmVmb3JlIHlvdXIgYXJyaXZhbC4KCioqV2hlcmUgd2UgYXJlKiog4oCTIFZpYSBSb21hIDEsIDM5MTAwIEJvbHphbm8gKEJaKS4gV2UgYXJlIGluIHRoZSBoaXN0b3JpYyBjZW50ZXIsIGVhc2lseSByZWFjaGFibGUgb24gZm9vdCBvciBieSBwdWJsaWMgdHJhbnNwb3J0LgoKKipEaXJlY3QgY29udGFjdHMqKiDigJMgUGhvbmU6ICszOSAwNDcxIDEyMzQ1NiB8IEVtYWlsOiBbaW5mb0B0ZXN0YWxwaW5vLml0XShtYWlsdG86aW5mb0B0ZXN0YWxwaW5vLml0KQoKKipDb250YWN0IGZvcm0qKiDigJMgVXNlIHRoZSBmb3JtIGJlbG93IHRvIHNlbmQgdXMgYSBtZXNzYWdlLiBXZSB3aWxsIHJlcGx5IGFzIHNvb24gYXMgcG9zc2libGUuCgoqKkludGVyYWN0aXZlIG1hcCoqIOKAkyBCZWxvdyB5b3Ugd2lsbCBmaW5kIHRoZSBtYXAgdG8gcmVhY2ggdXMuIFdlIGxvb2sgZm9yd2FyZCB0byBoYXZpbmcgeW91IHRhc3RlIHRoZSB0cnVlIGZsYXZvciBvZiB0aGUgbW91bnRhaW5zLg==
+---
+title: "Contact – Ristorante Test Alpino"
+description: "Contact Ristorante Test Alpino in Bolzano. Phone, email, contact form and map. Book now."
+translationKey: "contatti"
+layout: "contatti"
+---
+
+We are at your disposal for any information or reservation. Here are our contact details:
+
+**Address:** Via Roma 1, 39100 Bolzano (BZ), Italy
+**Phone:** +39 0471 123456
+**Email:** info@testalpino.it
+
+**Opening hours:** (if not specified, please check the website)
+
+Use the contact form below to send us a direct message. We will reply as soon as possible.
+
+You can also find us on Google Maps: [View map](https://maps.google.com/?q=Via+Roma+1+Bolzano)
+
+Follow us on social media to stay updated on our events and special offers. We look forward to seeing you!

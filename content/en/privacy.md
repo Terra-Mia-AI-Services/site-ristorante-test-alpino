@@ -1,1 +1,32 @@
-LS0tCnRpdGxlOiAiQ29va2llIGFuZCBQcml2YWN5IOKAkyBSaXN0b3JhbnRlIFRlc3QgQWxwaW5vIgpkZXNjcmlwdGlvbjogIlByaXZhY3kgcG9saWN5IGFuZCBjb29raWUgaW5mb3JtYXRpb24gZm9yIFJpc3RvcmFudGUgVGVzdCBBbHBpbm8gaW4gQm9semFuby4gTGVhcm4gaG93IHdlIGhhbmRsZSB5b3VyIHBlcnNvbmFsIGRhdGEuIgp0cmFuc2xhdGlvbktleTogImNvb2tpZV9wcml2YWN5IgotLS0KCiMjIFByaXZhY3kgUG9saWN5CgpUaGUgKipSaXN0b3JhbnRlIFRlc3QgQWxwaW5vKiogKGhlcmVpbmFmdGVyICJEYXRhIENvbnRyb2xsZXIiKSwgYmFzZWQgaW4gVmlhIFJvbWEgMSwgMzkxMDAgQm9semFubyAoQlopLCBlbWFpbDogW2luZm9AdGVzdGFscGluby5pdF0obWFpbHRvOmluZm9AdGVzdGFscGluby5pdCksIGlzIHRoZSBkYXRhIGNvbnRyb2xsZXIgb2YgcGVyc29uYWwgZGF0YSBjb2xsZWN0ZWQgdGhyb3VnaCB0aGlzIHdlYnNpdGUuCgojIyMgRGF0YSBjb2xsZWN0ZWQgYW5kIHB1cnBvc2VzCldlIGNvbGxlY3QgcGVyc29uYWwgZGF0YSAobmFtZSwgZW1haWwsIHBob25lKSBvbmx5IHdoZW4geW91IHZvbHVudGFyaWx5IHByb3ZpZGUgaXQgdGhyb3VnaCB0aGUgY29udGFjdCBmb3JtLiBUaGUgZGF0YSBpcyB1c2VkIHNvbGVseSB0byByZXNwb25kIHRvIHlvdXIgcmVxdWVzdHMgYW5kIGlzIG5vdCBzaGFyZWQgd2l0aCB0aGlyZCBwYXJ0aWVzLgoKIyMjIENvb2tpZXMKVGhpcyB3ZWJzaXRlIHVzZXMgdGVjaG5pY2FsIGNvb2tpZXMgbmVjZXNzYXJ5IGZvciBvcGVyYXRpb24gYW5kIGFuYWx5dGljYWwgY29va2llcyB0byBpbXByb3ZlIHRoZSB1c2VyIGV4cGVyaWVuY2UuIFlvdSBjYW4gbWFuYWdlIHByZWZlcmVuY2VzIGZyb20geW91ciBicm93c2VyLiBXZSBkbyBub3QgdXNlIHByb2ZpbGluZyBjb29raWVzLgoKIyMjIFlvdXIgcmlnaHRzCllvdSBoYXZlIHRoZSByaWdodCB0byBhY2Nlc3MsIHJlY3RpZnksIGRlbGV0ZSBhbmQgcG9ydCB5b3VyIGRhdGEuIFRvIGV4ZXJjaXNlIHlvdXIgcmlnaHRzLCB3cml0ZSB0byBbaW5mb0B0ZXN0YWxwaW5vLml0XShtYWlsdG86aW5mb0B0ZXN0YWxwaW5vLml0KS4KCiMjIyBSZXRlbnRpb24KRGF0YSBpcyByZXRhaW5lZCBmb3IgdGhlIHRpbWUgbmVjZXNzYXJ5IGZvciB0aGUgc3RhdGVkIHB1cnBvc2VzIGFuZCBpbiBhbnkgY2FzZSBubyBsb25nZXIgdGhhbiAxMiBtb250aHMgZnJvbSB0aGUgbGFzdCBjb250YWN0LgoKIyMjIENoYW5nZXMKVGhpcyBwb2xpY3kgbWF5IGJlIHVwZGF0ZWQuIFdlIGludml0ZSB5b3UgdG8gY2hlY2sgaXQgcGVyaW9kaWNhbGx5Lg==
+---
+title: "Cookie and Privacy – Ristorante Test Alpino"
+description: "Privacy and cookie policy of Ristorante Test Alpino. Learn how we handle your data."
+translationKey: "cookie_privacy"
+---
+
+**Privacy and Cookie Policy**
+
+**Ristorante Test Alpino** (hereinafter "Controller") respects users' privacy and is committed to protecting personal data. This policy is provided in accordance with EU Regulation 2016/679 (GDPR).
+
+**1. Data Controller**
+Ristorante Test Alpino, Via Roma 1, 39100 Bolzano (BZ), Italy, email: info@testalpino.it
+
+**2. Data Collected**
+We collect personal data voluntarily provided (name, email, phone) via the contact form and browsing data (technical and analytics cookies). Cookies are used to improve user experience and for anonymous statistics.
+
+**3. Purpose of Processing**
+Data is processed to respond to requests, manage reservations, send communications (if explicitly requested), and for internal analysis.
+
+**4. Legal Basis**
+Processing is based on consent (for non-technical cookies) and on the performance of a requested service.
+
+**5. Retention and Rights**
+Data is retained for the necessary period. The user has the right to access, rectify, delete, restrict, port, object, and withdraw consent. To exercise rights, contact info@testalpino.it.
+
+**6. Cookies**
+We use technical and analytics cookies. No profiling cookies. You can disable cookies in your browser, but some features may be limited.
+
+**7. Changes**
+Any changes will be published on this page.
+
+**Policy updated 2025.**

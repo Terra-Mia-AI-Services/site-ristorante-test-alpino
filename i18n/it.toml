@@ -1,1 +1,149 @@
-W25hdl9tb3JlXQpvdGhlciA9ICJBbHRybyIKCltjb250YWN0XQpvdGhlciA9ICJDb250YXR0aSIKCltob21lX2tpY2tlcl0Kb3RoZXIgPSAiQmVudmVudXRpIgoKW2hvbWVfaGVyb190aXRsZV0Kb3RoZXIgPSAiVW4gcG9zdG8gYmVsbGlzc2ltbywgcmVzbyBzZW1wbGljZSIKCltob21lX2hlcm9fc3VidGl0bGVdCm90aGVyID0gIlNjb3ByaSBzZXJ2aXppLCBwcmV6emkgZSBjb21lIGNvbnRhdHRhcmNpIMODwqLDouKAmsKsw6LigqzCnSBuZWxsYSB0dWEgbGluZ3VhLiIKCltob21lX3ByaW1hcnlfY3RhXQpvdGhlciA9ICJTY29wcmkgaSBzZXJ2aXppIgoKW2hvbWVfc2Vjb25kYXJ5X2N0YV0Kb3RoZXIgPSAiQ29udGF0dGkiCgpbaG9tZV9oaWdobGlnaHRzX3RpdGxlXQpvdGhlciA9ICJJbiBldmlkZW56YSIKCltob21lX2hpZ2hsaWdodF8xX3RpdGxlXQpvdGhlciA9ICJJbmZvcm1hemlvbmkgY2hpYXJlIgoKW2hvbWVfaGlnaGxpZ2h0XzFfYm9keV0Kb3RoZXIgPSAiUGFnaW5lIG9yZGluYXRlIGUgbmF2aWdhemlvbmUgdmVsb2NlLiIKCltob21lX2hpZ2hsaWdodF8yX3RpdGxlXQpvdGhlciA9ICJEdWUgbGluZ3VlIgoKW2hvbWVfaGlnaGxpZ2h0XzJfYm9keV0Kb3RoZXIgPSAiSXRhbGlhbm8gZSBpbmdsZXNlIMODwqLDouKAmsKsw6LigqzCnSBzZW1wcmUgYWxsaW5lYXRpLiIKCltob21lX2hpZ2hsaWdodF8zX3RpdGxlXQpvdGhlciA9ICJDb250YXR0YWNpIgoKW2hvbWVfaGlnaGxpZ2h0XzNfYm9keV0Kb3RoZXIgPSAiVHJvdmEgaSByZWNhcGl0aSBlIHNjcml2aWNpIGluIHBvY2hpIHNlY29uZGkuIgoKW2hvbWVfc2VjdGlvbnNfdGl0bGVdCm90aGVyID0gIlR1dHRvIHF1ZWxsbyBjaGUgc2VydmUiCgpbaG9tZV9zZWN0aW9uc19zdWJ0aXRsZV0Kb3RoZXIgPSAiTGluayByYXBpZGkgYWxsZSBwYWdpbmUgcGnDg8aSw4LCuSBpbXBvcnRhbnRpLiIKCltob21lX2NhcmRfYWJvdXRfdGl0bGVdCm90aGVyID0gIkNoaSBzaWFtbyIKCltob21lX2NhcmRfYWJvdXRfYm9keV0Kb3RoZXIgPSAiTGEgbm9zdHJhIHN0b3JpYSBlIGkgbm9zdHJpIHZhbG9yaS4iCgpbaG9tZV9jYXJkX3NlcnZpY2VzX3RpdGxlXQpvdGhlciA9ICJTZXJ2aXppIgoKW2hvbWVfY2FyZF9zZXJ2aWNlc19ib2R5XQpvdGhlciA9ICJDb3NhIG9mZnJpYW1vIGUgY29tZSBmdW56aW9uYS4iCgpbaG9tZV9jYXJkX3ByaXZhY3lfdGl0bGVdCm90aGVyID0gIlByaXZhY3kiCgpbaG9tZV9jYXJkX3ByaXZhY3lfYm9keV0Kb3RoZXIgPSAiQ29tZSBnZXN0aWFtbyBpIGRhdGkgcGVyc29uYWxpLiIKCltob21lX2NhcmRfY29udGFjdF90aXRsZV0Kb3RoZXIgPSAiQ29udGF0dGkiCgpbaG9tZV9jYXJkX2NvbnRhY3RfYm9keV0Kb3RoZXIgPSAiU2NyaXZpY2kgcGVyIGRvbWFuZGUgbyBwcmVub3RhemlvbmkuIgoKW2hvbWVfY2FyZF9jdGFdCm90aGVyID0gIlNjb3ByaSBkaSBwacODxpLDgsK5IgoKW2hvbWVfZmluYWxfdGl0bGVdCm90aGVyID0gIlByb250aSBhIHBhcnRpcmU/IgoKW2hvbWVfZmluYWxfYm9keV0Kb3RoZXIgPSAiSW52aWFjaSB1biBtZXNzYWdnaW86IHRpIHJpc3BvbmRpYW1vIGFsIHBpw4PGksOCwrkgcHJlc3RvLiIKCltob21lX2ZpbmFsX2N0YV0Kb3RoZXIgPSAiU2NyaXZpY2kiCgpbYTExeV9vcGVuX21lbnVdCm90aGVyID0gIkFwcmkgaWwgbWVudSIKCltmb290ZXJfcmlnaHRzXQpvdGhlciA9ICJUdXR0aSBpIGRpcml0dGkgcmlzZXJ2YXRpLiIKCltjb29raWVfdGl0bGVdCm90aGVyID0gIkNvb2tpZSIKCltjb29raWVfYm9keV0Kb3RoZXIgPSAiVXNpYW1vIGNvb2tpZSBlc3NlbnppYWxpIHBlciBmYXIgZnVuemlvbmFyZSBpbCBzaXRvLiIKCltjb29raWVfbGVhcm5fbW9yZV0Kb3RoZXIgPSAiU2NvcHJpIGRpIHBpw4PGksOCwrkiCgpbY29va2llX2FjY2VwdF0Kb3RoZXIgPSAiT0siCgpbY29udGFjdF9tYXBfdGl0bGVdCm90aGVyID0gIkRvdmUgc2lhbW8iCgpbY29udGFjdF9tYXBfaWZyYW1lX3RpdGxlXQpvdGhlciA9ICJNYXBwYSIKCltjb250YWN0X21hcF9taXNzaW5nXQpvdGhlciA9ICJNYXBwYSBub24gZGlzcG9uaWJpbGUuIgoKW2NvbnRhY3RfaW5mb190aXRsZV0Kb3RoZXIgPSAiUmVjYXBpdGkiCgpbY29udGFjdF9pbmZvX2VtYWlsXQpvdGhlciA9ICJFbWFpbCIKCltjb250YWN0X2luZm9fcGhvbmVdCm90aGVyID0gIlRlbGVmb25vIgoKW2NvbnRhY3RfaW5mb19hZGRyZXNzXQpvdGhlciA9ICJJbmRpcml6em8iCgpbY29udGFjdF9mb3JtX3RpdGxlXQpvdGhlciA9ICJTY3JpdmljaSIKCltjb250YWN0X2Zvcm1fbmFtZV0Kb3RoZXIgPSAiTm9tZSIKCltjb250YWN0X2Zvcm1fZW1haWxdCm90aGVyID0gIkVtYWlsIgoKW2NvbnRhY3RfZm9ybV9tZXNzYWdlXQpvdGhlciA9ICJNZXNzYWdnaW8iCgpbY29udGFjdF9mb3JtX25hbWVfcGxhY2Vob2xkZXJdCm90aGVyID0gIklsIHR1byBub21lIgoKW2NvbnRhY3RfZm9ybV9lbWFpbF9wbGFjZWhvbGRlcl0Kb3RoZXIgPSAibm9tZUBlc2VtcGlvLmNvbSIKCltjb250YWN0X2Zvcm1fbWVzc2FnZV9wbGFjZWhvbGRlcl0Kb3RoZXIgPSAiQ29tZSBwb3NzaWFtbyBhaXV0YXJ0aT8iCgpbY29udGFjdF9mb3JtX3N1Ym1pdF0Kb3RoZXIgPSAiSW52aWEiCgpbY29udGFjdF9mb3JtX2Rpc2NsYWltZXJdCm90aGVyID0gIlJpc3BvbmRlcmVtbyBpbCBwcmltYSBwb3NzaWJpbGUuIgo=
+[nav_more]
+other = "Altro"
+
+[contact]
+other = "Contatti"
+
+[home_kicker]
+other = "Benvenuti"
+
+[home_hero_title]
+other = "Un posto bellissimo, reso semplice"
+
+[home_hero_subtitle]
+other = "Scopri servizi, prezzi e come contattarci - nella tua lingua."
+
+[home_primary_cta]
+other = "Scopri i servizi"
+
+[home_secondary_cta]
+other = "Contatti"
+
+[home_highlights_title]
+other = "In evidenza"
+
+[home_highlight_1_title]
+other = "Informazioni chiare"
+
+[home_highlight_1_body]
+other = "Pagine ordinate e navigazione veloce."
+
+[home_highlight_2_title]
+other = "Due lingue"
+
+[home_highlight_2_body]
+other = "Italiano e inglese - sempre allineati."
+
+[home_highlight_3_title]
+other = "Contattaci"
+
+[home_highlight_3_body]
+other = "Trova i recapiti e scrivici in pochi secondi."
+
+[home_sections_title]
+other = "Tutto quello che serve"
+
+[home_sections_subtitle]
+other = "Link rapidi alle pagine più importanti."
+
+[home_card_about_title]
+other = "Chi siamo"
+
+[home_card_about_body]
+other = "La nostra storia e i nostri valori."
+
+[home_card_services_title]
+other = "Servizi"
+
+[home_card_services_body]
+other = "Cosa offriamo e come funziona."
+
+[home_card_privacy_title]
+other = "Privacy"
+
+[home_card_privacy_body]
+other = "Come gestiamo i dati personali."
+
+[home_card_contact_title]
+other = "Contatti"
+
+[home_card_contact_body]
+other = "Scrivici per domande o prenotazioni."
+
+[home_card_cta]
+other = "Scopri di più"
+
+[home_final_title]
+other = "Pronti a partire?"
+
+[home_final_body]
+other = "Inviaci un messaggio: ti rispondiamo al più presto."
+
+[home_final_cta]
+other = "Scrivici"
+
+[a11y_open_menu]
+other = "Apri il menu"
+
+[footer_rights]
+other = "Tutti i diritti riservati."
+
+[cookie_title]
+other = "Cookie"
+
+[cookie_body]
+other = "Usiamo cookie essenziali per far funzionare il sito."
+
+[cookie_learn_more]
+other = "Scopri di più"
+
+[cookie_accept]
+other = "OK"
+
+[contact_map_title]
+other = "Dove siamo"
+
+[contact_map_iframe_title]
+other = "Mappa"
+
+[contact_map_missing]
+other = "Mappa non disponibile."
+
+[contact_info_title]
+other = "Recapiti"
+
+[contact_info_email]
+other = "Email"
+
+[contact_info_phone]
+other = "Telefono"
+
+[contact_info_address]
+other = "Indirizzo"
+
+[contact_form_title]
+other = "Scrivici"
+
+[contact_form_name]
+other = "Nome"
+
+[contact_form_email]
+other = "Email"
+
+[contact_form_message]
+other = "Messaggio"
+
+[contact_form_name_placeholder]
+other = "Il tuo nome"
+
+[contact_form_email_placeholder]
+other = "nome@esempio.com"
+
+[contact_form_message_placeholder]
+other = "Come possiamo aiutarti?"
+
+[contact_form_submit]
+other = "Invia"
+
+[contact_form_disclaimer]
+other = "Risponderemo il prima possibile."

@@ -1,13 +1,11 @@
 ---
-title: "About Us – Our Story at Ristorante Test Alpino"
-description: "Discover the story of Ristorante Test Alpino, an icon of Tyrolean cuisine in Bolzano. Passion and tradition since 1950."
+title: "About Us – Ristorante Test Alpino Bolzano"
+description: "Discover the story of Ristorante Test Alpino: passion for Tyrolean cuisine, local ingredients, and a rustic atmosphere in the heart of Bolzano."
 translationKey: "chi_siamo"
 ---
 
-**Ristorante Test Alpino** was founded in 1950, when the Test family decided to open a small inn on the slopes of the Dolomites. Since then, our mission has always been to bring the genuine flavors of Tyrolean tradition to the table.
+**Our story** – Ristorante Test Alpino was born from a love for the mountains and the Tyrolean culinary tradition. We are located in Bolzano, on Via Roma 1, and have been welcoming guests with the warmth of a true alpine refuge for years. Our family runs the restaurant with dedication, bringing to the table recipes passed down through generations.
 
-Today, the third generation of the family runs the restaurant with the same passion and dedication as always. Each dish is carefully prepared using zero-kilometer ingredients from local farms.
+**Our values:** we use only fresh, local ingredients sourced from producers in Trentino-Alto Adige. Our cuisine is simple, genuine, and rich in flavor. We believe that food is an experience that brings people together, which is why we care for every detail: from the welcome to the rustic atmosphere with wood and stone.
 
-Our philosophy is based on respect for nature and culinary traditions. We believe that food is an experience that brings people together, and for this reason we strive to create a family-friendly and welcoming atmosphere.
-
-Our team consists of experienced chefs and attentive service staff, all united by a love for good food and the local area. Come and visit us to discover our story.
+**Why choose us:** because here you will find not just a meal, but a journey into mountain flavors. Every dish is prepared fresh, respecting the seasons and traditions. Come and discover the taste of the mountains at Ristorante Test Alpino.

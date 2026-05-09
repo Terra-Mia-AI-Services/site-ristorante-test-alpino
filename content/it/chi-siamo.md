@@ -1,13 +1,11 @@
 ---
-title: "Chi siamo – La nostra storia al Ristorante Test Alpino"
-description: "Scopri la storia del Ristorante Test Alpino, un’icona della cucina tirolese a Bolzano. Passione e tradizione dal 1950."
+title: "Chi siamo – Ristorante Test Alpino Bolzano"
+description: "Scopri la storia del Ristorante Test Alpino: passione per la cucina tirolese, ingredienti locali e atmosfera rustica nel cuore di Bolzano."
 translationKey: "chi_siamo"
 ---
 
-Il **Ristorante Test Alpino** nasce nel 1950, quando la famiglia Test decise di aprire una piccola locanda sulle pendici delle Dolomiti. Da allora, la nostra missione è sempre stata quella di portare in tavola i sapori genuini della tradizione tirolese.
+**La nostra storia** – Il Ristorante Test Alpino nasce dall'amore per la montagna e per la tradizione culinaria tirolese. Ci troviamo a Bolzano, in Via Roma 1, e da anni accogliamo clienti con il calore di un vero rifugio alpino. La nostra famiglia gestisce il locale con dedizione, portando in tavola le ricette tramandate da generazioni.
 
-Oggi, la terza generazione della famiglia gestisce il ristorante con la stessa passione e dedizione di un tempo. Ogni piatto è preparato con cura, utilizzando ingredienti a chilometro zero provenienti dalle fattorie locali.
+**I nostri valori:** utilizziamo solo ingredienti freschi e locali, provenienti da produttori del Trentino-Alto Adige. La nostra cucina è semplice, genuina e ricca di sapore. Crediamo che il cibo sia un'esperienza che unisce le persone, per questo curiamo ogni dettaglio: dall'accoglienza all'atmosfera rustica con legno e pietra.
 
-La nostra filosofia si basa sul rispetto per la natura e per le tradizioni culinarie. Crediamo che il cibo sia un'esperienza che unisce le persone, e per questo ci impegniamo a creare un'atmosfera familiare e accogliente.
-
-Il nostro team è composto da chef esperti e personale di sala attento, tutti uniti dall'amore per la buona cucina e per il territorio. Venite a trovarci e scoprite la nostra storia.
+**Perché sceglierci:** perché qui non troverete solo un pasto, ma un viaggio nei sapori di montagna. Ogni piatto è preparato al momento, rispettando le stagioni e le tradizioni. Venite a scoprire il gusto della montagna al Ristorante Test Alpino.

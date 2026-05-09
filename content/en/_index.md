@@ -1,13 +1,11 @@
 ---
-title: "Ristorante Test Alpino – Taste of the Mountains in Bolzano"
-description: "Welcome to Ristorante Test Alpino, traditional Tyrolean cuisine in a rustic setting. Discover our dishes and book your table."
+title: "Ristorante Test Alpino | Tyrolean Cuisine in Bolzano"
+description: "Welcome to Ristorante Test Alpino in Bolzano: authentic Tyrolean cuisine in a rustic setting. Discover the taste of the mountains and book your table."
 translationKey: "homepage"
 ---
 
-Welcome to **Ristorante Test Alpino**, where the authentic taste of the mountains meets Tyrolean tradition. Located in the heart of Bolzano, our restaurant offers a unique culinary experience, immersed in a rustic and welcoming atmosphere.
+**Welcome to Ristorante Test Alpino** – the true flavor of the Dolomites awaits you in Bolzano. We are a typical mountain restaurant, where Tyrolean tradition meets the warmth of a rustic and welcoming atmosphere. Every dish tells the story of our valleys, prepared with local ingredients and passion.
 
-Our menu celebrates the flavors of the Alps, with dishes prepared using local ingredients and recipes passed down through generations. From speck to dumplings, from strudel to roasted meats, each dish tells the story of our land.
+Our menu celebrates authentic flavors: from smoked speck to dumplings, from apple strudel to mountain cheeses. Let yourself be guided by the scents of the forest and the genuine taste of our cuisine. We are open year-round for family lunches, romantic dinners, or evenings with friends.
 
-We invite you to explore our wine cellar, rich in South Tyrolean wines, and enjoy the view of the surrounding mountains. Whether you are a couple, family, or with friends, you will always find a corner of peace and good food.
-
-Book your table today and let yourself be conquered by the taste of the mountains. Our staff is ready to welcome you with warmth and professionalism.
+Come visit us at **Via Roma 1, Bolzano (BZ)**. You can reach us at **+39 0471 123456** or email **info@testalpino.it**. Follow us on Instagram and Facebook to discover our special offers and mountain-themed events.

@@ -1,32 +1,22 @@
 ---
-title: "Cookie e Privacy – Ristorante Test Alpino"
-description: "Informativa sulla privacy e cookie del Ristorante Test Alpino. Scopri come trattiamo i tuoi dati."
+title: "Cookie e Privacy – Ristorante Test Alpino Bolzano"
+description: "Informativa sulla privacy e gestione dei cookie del Ristorante Test Alpino. Scopri come trattiamo i tuoi dati personali."
 translationKey: "cookie_privacy"
 ---
 
-**Informativa sulla Privacy e Cookie**
+**Informativa sulla Privacy**
 
-Il **Ristorante Test Alpino** (di seguito "Titolare") rispetta la privacy degli utenti e si impegna a proteggere i dati personali raccolti. La presente informativa è resa ai sensi del Regolamento UE 2016/679 (GDPR).
+Il Ristorante Test Alpino (con sede in Via Roma 1, 39100 Bolzano, email: info@testalpino.it) tratta i dati personali degli utenti nel rispetto del Regolamento UE 2016/679 (GDPR). I dati forniti volontariamente tramite il modulo di contatto o la prenotazione vengono utilizzati esclusivamente per rispondere alle richieste e per finalità amministrative. Non vengono ceduti a terzi se non per obblighi di legge.
 
-**1. Titolare del trattamento**
-Ristorante Test Alpino, Via Roma 1, 39100 Bolzano (BZ), email: info@testalpino.it
+**Cookie Policy**
 
-**2. Dati raccolti**
-Raccogliamo dati personali forniti volontariamente (nome, email, telefono) tramite il modulo di contatto e dati di navigazione (cookie tecnici e analytics). I cookie vengono utilizzati per migliorare l'esperienza utente e per statistiche anonime.
+Questo sito utilizza cookie tecnici e di analytics per garantire il corretto funzionamento e migliorare l'esperienza di navigazione. Non utilizziamo cookie di profilazione o marketing. Puoi gestire le preferenze dei cookie tramite le impostazioni del tuo browser. Continuando a navigare, acconsenti all'uso dei cookie.
 
-**3. Finalità del trattamento**
-I dati sono trattati per rispondere alle richieste, gestire prenotazioni, inviare comunicazioni (se esplicitamente richiesto) e per finalità di analisi interna.
+**Diritti dell'utente:**
+- Accesso ai propri dati
+- Rettifica o cancellazione
+- Limitazione del trattamento
+- Portabilità dei dati
+- Opposizione al trattamento
 
-**4. Base giuridica**
-Il trattamento è basato sul consenso (per i cookie non tecnici) e sull'esecuzione di un servizio richiesto.
-
-**5. Conservazione e diritti**
-I dati sono conservati per il tempo necessario. L'utente ha diritto di accesso, rettifica, cancellazione, limitazione, portabilità, opposizione, e di revocare il consenso. Per esercitare i diritti, contattare info@testalpino.it.
-
-**6. Cookie**
-Utilizziamo cookie tecnici e di analytics. Nessun cookie di profilazione. È possibile disabilitare i cookie dal browser, ma alcune funzionalità potrebbero essere limitate.
-
-**7. Modifiche**
-Eventuali modifiche saranno pubblicate su questa pagina.
-
-**Informativa aggiornata al 2025.**
+Per esercitare i tuoi diritti, contattaci all'indirizzo info@testalpino.it. Maggiori dettagli sono disponibili nella nostra informativa completa, disponibile su richiesta.

@@ -1,13 +1,11 @@
 ---
-title: "Ristorante Test Alpino – Il gusto della montagna a Bolzano"
-description: "Benvenuti al Ristorante Test Alpino, cucina tradizionale tirolese in un ambiente rustico. Scopri i nostri piatti e prenota il tuo tavolo."
+title: "Ristorante Test Alpino | Cucina tirolese a Bolzano"
+description: "Benvenuti al Ristorante Test Alpino a Bolzano: autentica cucina tirolese in un ambiente rustico. Scopri il gusto della montagna e prenota il tuo tavolo."
 translationKey: "homepage"
 ---
 
-Benvenuti al **Ristorante Test Alpino**, il luogo dove il gusto autentico della montagna incontra la tradizione tirolese. Situato nel cuore di Bolzano, il nostro ristorante vi offre un'esperienza culinaria unica, immersa in un'atmosfera rustica e accogliente.
+**Benvenuti al Ristorante Test Alpino** – il vero sapore delle Dolomiti vi aspetta a Bolzano. Siamo un ristorante tipico di montagna, dove la tradizione tirolese incontra il calore di un ambiente rustico e accogliente. Ogni piatto racconta la storia delle nostre valli, preparato con ingredienti locali e passione.
 
-Il nostro menu celebra i sapori delle Alpi, con piatti preparati con ingredienti locali e ricette tramandate di generazione in generazione. Dallo speck ai canederli, dallo strudel alle carni arrosto, ogni piatto racconta la storia della nostra terra.
+Il nostro menu celebra i sapori autentici: dagli speck affumicati ai canederli, dallo strudel di mele ai formaggi di malga. Lasciatevi guidare dal profumo dei boschi e dal gusto genuino della nostra cucina. Siamo aperti tutto l'anno per pranzi in famiglia, cene romantiche o serate tra amici.
 
-Vi invitiamo a scoprire la nostra cantina, ricca di vini altoatesini, e a godervi la vista sulle montagne circostanti. Che siate in coppia, in famiglia o con amici, troverete sempre un angolo di pace e buona cucina.
-
-Prenotate il vostro tavolo oggi stesso e lasciatevi conquistare dal sapore della montagna. Il nostro staff è pronto ad accogliervi con calore e professionalità.
+Venite a trovarci a **Via Roma 1, Bolzano (BZ)**. Potete contattarci al **+39 0471 123456** o scriverci a **info@testalpino.it**. Seguiteci su Instagram e Facebook per scoprire le nostre offerte speciali e gli eventi a tema montagna.

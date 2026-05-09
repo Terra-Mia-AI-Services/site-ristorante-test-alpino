@@ -1,32 +1,22 @@
 ---
-title: "Cookie and Privacy – Ristorante Test Alpino"
-description: "Privacy and cookie policy of Ristorante Test Alpino. Learn how we handle your data."
+title: "Cookie and Privacy – Ristorante Test Alpino Bolzano"
+description: "Privacy policy and cookie management of Ristorante Test Alpino. Find out how we handle your personal data."
 translationKey: "cookie_privacy"
 ---
 
-**Privacy and Cookie Policy**
+**Privacy Policy**
 
-**Ristorante Test Alpino** (hereinafter "Controller") respects users' privacy and is committed to protecting personal data. This policy is provided in accordance with EU Regulation 2016/679 (GDPR).
+Ristorante Test Alpino (located at Via Roma 1, 39100 Bolzano, email: info@testalpino.it) processes users' personal data in compliance with EU Regulation 2016/679 (GDPR). Data provided voluntarily via the contact form or reservation are used exclusively to respond to requests and for administrative purposes. They are not disclosed to third parties except where required by law.
 
-**1. Data Controller**
-Ristorante Test Alpino, Via Roma 1, 39100 Bolzano (BZ), Italy, email: info@testalpino.it
+**Cookie Policy**
 
-**2. Data Collected**
-We collect personal data voluntarily provided (name, email, phone) via the contact form and browsing data (technical and analytics cookies). Cookies are used to improve user experience and for anonymous statistics.
+This site uses technical and analytics cookies to ensure proper functioning and improve the browsing experience. We do not use profiling or marketing cookies. You can manage cookie preferences through your browser settings. By continuing to browse, you consent to the use of cookies.
 
-**3. Purpose of Processing**
-Data is processed to respond to requests, manage reservations, send communications (if explicitly requested), and for internal analysis.
+**User Rights:**
+- Access to your data
+- Rectification or erasure
+- Restriction of processing
+- Data portability
+- Objection to processing
 
-**4. Legal Basis**
-Processing is based on consent (for non-technical cookies) and on the performance of a requested service.
-
-**5. Retention and Rights**
-Data is retained for the necessary period. The user has the right to access, rectify, delete, restrict, port, object, and withdraw consent. To exercise rights, contact info@testalpino.it.
-
-**6. Cookies**
-We use technical and analytics cookies. No profiling cookies. You can disable cookies in your browser, but some features may be limited.
-
-**7. Changes**
-Any changes will be published on this page.
-
-**Policy updated 2025.**
+To exercise your rights, contact us at info@testalpino.it. Further details are available in our full policy, available upon request.

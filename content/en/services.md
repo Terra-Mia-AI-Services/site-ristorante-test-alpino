@@ -1,15 +1,16 @@
 ---
-title: "Services – Ristorante Test Alpino in Bolzano"
-description: "We offer dining, catering, and private events. Book an intimate dinner or a party in our rustic setting."
+title: "Services – Ristorante Test Alpino Bolzano"
+description: "Discover the services of Ristorante Test Alpino: catering, private events, special menus and more. Perfect for any occasion."
 translationKey: "servizi"
 ---
 
-At **Ristorante Test Alpino** we offer a wide range of services to make your experience unforgettable. Whether it's a romantic dinner for two, a business lunch, or a party with friends, we have everything you need.
+At Ristorante Test Alpino we offer a full range of services to make every occasion special. Whether it's a business lunch, a romantic dinner, or a family celebration, our staff is ready to meet every need with professionalism and warmth.
 
-**Dining** – Our à la carte menu allows you to choose from a selection of traditional dishes and seasonal proposals. We also offer tasting menus to let you savor the best of our cuisine.
+**Main services:**
+- **Traditional Tyrolean cuisine** with à la carte and tasting menus
+- **Catering for events** at home or in alpine locations
+- **Organization of private parties** (birthdays, anniversaries, corporate dinners)
+- **Vegetarian and gluten-free menus** upon request
+- **Take-away and delivery** to enjoy our dishes at home
 
-**Catering** – We bring the flavors of the mountains directly to your home or to your events. We customize menus according to your needs, with dishes prepared fresh and delivered with care.
-
-**Private Events** – Our restaurant has private rooms for birthday parties, anniversaries, corporate dinners, and other celebrations. The rustic atmosphere and attentive service will make your event special.
-
-Book your service by contacting us directly or through the contact form. We will be happy to arrange everything down to the smallest detail.
+Our rustic environment can accommodate up to 50 people, with the possibility of customized setups. Contact us at **+39 0471 123456** or email **info@testalpino.it** for a quote or to book your event. We await you in Bolzano to savor the taste of the mountains.

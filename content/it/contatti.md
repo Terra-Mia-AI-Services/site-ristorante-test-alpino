@@ -1,20 +1,24 @@
 ---
-title: "Contatti – Ristorante Test Alpino"
-description: "Contatta il Ristorante Test Alpino a Bolzano. Telefono, email, modulo di contatto e mappa. Prenota ora."
+title: "Contatti – Ristorante Test Alpino Bolzano"
+description: "Contatta il Ristorante Test Alpino a Bolzano. Telefono, email, modulo di contatto e mappa interattiva. Prenota il tuo tavolo oggi."
 translationKey: "contatti"
 layout: "contatti"
 ---
 
-Siamo a vostra disposizione per qualsiasi informazione o prenotazione. Ecco i nostri recapiti:
+Siamo a vostra disposizione per prenotazioni, informazioni o suggerimenti. Compilate il modulo qui sotto o contattateci direttamente. Il nostro staff vi risponderà al più presto.
 
-**Indirizzo:** Via Roma 1, 39100 Bolzano (BZ)
-**Telefono:** +39 0471 123456
-**Email:** info@testalpino.it
+**Dove siamo:**
+- **Indirizzo:** Via Roma 1, 39100 Bolzano (BZ)
+- **Telefono:** +39 0471 123456
+- **Email:** info@testalpino.it
 
-**Orari di apertura:** (se non specificati, consultare il sito)
+**Mappa interattiva:** [Inserire qui l'embed della mappa]
 
-Utilizzate il modulo di contatto qui sotto per inviarci un messaggio diretto. Risponderemo nel più breve tempo possibile.
+**Modulo di contatto:**
+- Nome e Cognome
+- Indirizzo email
+- Telefono
+- Oggetto
+- Messaggio
 
-Potete anche trovarci su Google Maps: [Vedi mappa](https://maps.google.com/?q=Via+Roma+1+Bolzano)
-
-Seguiteci sui social per rimanere aggiornati sulle nostre iniziative e offerte speciali. Vi aspettiamo!
+Seguiteci sui social per rimanere aggiornati su offerte e novità. Il gusto della montagna vi aspetta!
